@@ -7,5 +7,5 @@ Tela de Login
 <br>
 ## Recursos que adicionarei em breve
 
-* validações com js
-* pagina de cadastro
+* pagina de cadastro(Adicionado)
+* validações com js(Adicionado)
